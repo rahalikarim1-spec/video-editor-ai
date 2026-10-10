@@ -1,0 +1,6 @@
+.venv/
+temp/*
+!temp/.gitkeep
+input/*
+!input/.gitkeep
+output/*.mp4
